@@ -1,0 +1,8 @@
+site_name: hello-deni
+site_description: hello-deni
+
+nav: 
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
